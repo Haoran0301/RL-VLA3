@@ -1,0 +1,25 @@
+__pycache__
+.vscode
+*.log
+*.idx
+*.npy
+*.txt
+!requirements/**
+!docs/*
+*.DS_Store
+*.out
+build
+docs/build
+dist
+logs/
+logs_rebuttal/
+outputs/*
+*.so
+.venv
+uv.lock
+rlinf/envs/maniskill/assets
+README-DEV.md
+# local experiment / asset junk
+debug_time/
+**/maniskill/**/assets/
+*.glb
